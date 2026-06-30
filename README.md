@@ -1,4 +1,4 @@
-# Cognetix-Python-Internship--stage2
+# Cognetix-Python-Internship--stage 3
 
 ### Simple File Encryptor
 This is a Python-based project that uses the `cryptography` library to encrypt and decrypt text files securely.
